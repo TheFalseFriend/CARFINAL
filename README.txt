@@ -11,6 +11,8 @@ ResultsReport.pdf is unfinished.
 
 ========README==============================
 
+The DICE machine must have the argparse python module installed.
+
 1. Compilation
 	At a DICE terminal, do 
 
